@@ -11,7 +11,7 @@
 	     <tr>
 	      <td>
 		<div>
-		<h2>Justin Mayer, PhD Candidate</h2>
+		<h2>Justin A. Mayer, PhD</h2>
 		   <p>
 		      <img src="JMayer_headshot.jpg" alt="Justin" align="right" width="250" style="padding-left:75px;">
 		  </p>
@@ -20,12 +20,14 @@
 		<div>
 		<h3>Research Interests</h3>
 		<p align ="left">
-		I am a fifth year graduate student co-advised by Professor Ram Seshadri, Professor Tresa M. Pollock, and Professor Irene J. Beyerlein. My research examines the relationships between atomic order, microstructure, and magnetism. I perform atomistic calculations using either density functional theory, or molecular dynamics, to inform phase-field calculations at the mesoscopic level. 
-		I am also particularly interested in code development.
+		My research examines the relationships between atomic order, microstructure, and functional properties within inorganic material systems. I am particularly
+		interested in applying multiscale modeling to outstanding problems in magnetism, piezoelectricity, and plasticity. My expertise spans atomistic simulations, including density functional
+		theory and molecular dynamics, as well as phase-field calculations at the mesoscale. Additionally, I contribute to the development and maintenance of C++-based software
+		designed to predict the motion and interactions of crystal dislocations within a phase-field framework.
 		</div>
 		<h3>Education</h3>
 		<p align ="left">
-		   Ph.D. Candidate, Materials Department, UC Santa Barbara, 2019&ndash;Present.
+		   Ph.D. Candidate, Materials Department, UC Santa Barbara, 2019&ndash;2025.
 		</p>
 		<p align ="left">
 		   B.S. Chemical Engineering and Physics, Northeastern University, 2014&ndash;2018.
@@ -34,18 +36,7 @@
 		<div>
 		<h3>Previous Research</h3>
 		</div>
-		<div style="font-weight:800">
-			Mefford Research Group
-		</div>
-		<p align="left">
-		A research experience for undergraduates at Clemson University in 2015 exposed me to the field of materials science for the first time.
-		This research, under <a href="https://www.meffordresearch.com/" target="_blank" style="color: 2569A1"><b>Dr. O. Thompson Mefford</b></a>, focused on the quantitative 
-		study of ligand exchange kinetics on the surface of aged iron oxide nanoparticles. A better understanding of ligand exchange kinetics, especially in the context of aged nanoparticles, is needed if these nanoparticles 
-		are to be implemented in future biomedical applications.	
-		</p>
-
-		<br>
-
+		      
 		<div style="font-weight:800">
 			HRL Laboratories		
 		</div>
@@ -196,5 +187,7 @@
 	   </tr>
          </tbody> 
 	</table>
+	</body>
+</html>
 	</body>
 </html>
