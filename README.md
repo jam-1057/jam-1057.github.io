@@ -27,7 +27,8 @@
 		</div>
 		<h3>Education</h3>
 		<p align ="left">
-		   Ph.D. Candidate, Materials Department, UC Santa Barbara, 2019&ndash;2025.
+		   Ph.D. in Materials, Materials Department, UC Santa Barbara, 2019&ndash;2025.
+		   Advisors: Ram Seshadri, Tresa M. Pollock, and Irene J. Beyerlein
 		</p>
 		<p align ="left">
 		   B.S. Chemical Engineering and Physics, Northeastern University, 2014&ndash;2018.
