@@ -13,6 +13,7 @@ C++ based software designed to predict the motion and interactions of crystal di
 Education
 
 PhD, Materials, University of California, Santa Barbara Sep. 2019 - Mar. 2025
+
 Advisors: Ram Seshadri, Tresa M. Pollock, and Irene J. Beyerlein
 
 B.S. Chemical Engineering and Physics, Northeastern University, Sep 2014 - Dec. 2018
