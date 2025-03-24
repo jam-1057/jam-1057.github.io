@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <ol> 
-  <li value="17"> <font color="2569A1"><b>J. A. Mayer</b></font> and  I. J. Beyerlein, Evaluating the &lt; 111 &rt;, &lt; 110 &rt;, and &lt; 001 &rt; slip directions of the <i> B2 </i> intermetallic by way of anisotropic elasticity theory, <i>In review </i>
+  <li value="17"> <font color="2569A1"><b>J. A. Mayer</b></font> and  I. J. Beyerlein, Evaluating the &lt;111&gt;, &lt;110&gt;, and &lt;001&gt; slip directions of the <i> B2 </i> intermetallic by way of anisotropic elasticity theory, <i>In review </i>
   </li>
   <br>
 
