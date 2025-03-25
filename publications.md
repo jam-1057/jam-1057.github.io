@@ -5,18 +5,18 @@ permalink: /publications/
 ---
 
 <ol> 
-  <li value="17"> <font color="2569A1"><b>J. A. Mayer</b></font> and  I. J. Beyerlein, Evaluating the &lt;111&gt;, &lt;110&gt;, and &lt;001&gt; slip directions of the <i> B2 </i> intermetallic by way of anisotropic elasticity theory, <i>In review </i>
+  <li value="17"> <font color="2569A1"><b>J. A. Mayer</b></font> and  I. J. Beyerlein, Evaluating the &lt;111&gt;, &lt;110&gt;, and &lt;001&gt; slip directions of the <i> B2 </i> intermetallic by way of anisotropic elasticity theory, <i>Submitted </i>.
   </li>
   <br>
 
-<li value="16">B. E. Rhodes, P. Garg, N. Maria della Ventura, <font color="2569A1"><b>J. A. Mayer</b></font>, I. J. Beyerlein, and D. S. Gianola, Deformation pseudo-twinning of the L2<sub>1</sub>-ordered intermetallic superlattice, <i>Submitted</i>.
-  </li>
-  <br>    
- 
-  <li value="15"> B. E. Rhodes,<font color="2569A1"><b> J. A. Mayer</b></font>, W. S. Cunningham, A. Genc, S. Comby-Dassonneville, T. W. Cornelius, O. Thomas, R. Seshadri, Y. M. Eggeler, I. J. Beyerlein, and D. S. Gianola, Defect-level origins of giant magnetoplastic coupling in MnCu<sub>2</sub>Al, <i>Submitted</i>.
+  <li value="16"> B. E. Rhodes,<font color="2569A1"><b> J. A. Mayer</b></font>, W. S. Cunningham, A. Genc, S. Comby-Dassonneville, T. W. Cornelius, O. Thomas, R. Seshadri, Y. M. Eggeler, I. J. Beyerlein, and D. S. Gianola, Defect-level origins of giant magnetoplastic coupling in MnCu<sub>2</sub>Al, <i>Submitted</i>.
   </li>
    <br>
 
+<li value="15">B. E. Rhodes, P. Garg, N. Maria della Ventura, <font color="2569A1"><b>J. A. Mayer</b></font>, I. J. Beyerlein, and D. S. Gianola, Deformation pseudo-twinning of the L2<sub>1</sub>-ordered intermetallic superlattice, <i>Scripta Mater.</i> <b>257</b> (2025) 116468. [<a href="https://doi.org/10.1016/j.scriptamat.2024.116468" target="_black" style="color: #000000"><b>doi</b></a>]
+  </li>
+  <br>
+ 
    <li value="14">A. Ademola Odusanya, D. Kumar, J. David Schall, <font color="2569A1"><b>J. A. Mayer</b></font>, and R. Sakidja, Computational approach to modeling electronic properties of Titanium Oxynitride systems, <i>Comput. Mater. Sci.</i> <b>245</b> (2024) 113292 [<a href="https://doi.org/10.1016/j.commatsci.2024.113292" target="_blank" style="color: #000000"><b>doi</b></a>]
    </li>
    <br>
